@@ -339,7 +339,7 @@ body #footer .redessociales i {
 }
 #section1__productos p {
   text-align: justify;
-  font-size: 15px;
+  font-size: 20px;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   padding: 20px;
   color: black;
@@ -353,6 +353,36 @@ body #footer .redessociales i {
 }
 #section1__productos img {
   height: 250px;
+}
+
+#main__cerveza {
+  padding-top: 10px;
+  background-color: white;
+}
+#main__cerveza h1 {
+  padding-top: 10px;
+  font-size: 40px;
+  font-family: sans-serif;
+  text-align: center;
+  color: orangered;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+}
+
+#section1__cerveza {
+  background-color: white;
+}
+#section1__cerveza h5 {
+  color: orangered;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+#section1__cerveza p {
+  font-family: sans-serif;
+}
+#section1__cerveza .texto {
+  font-family: sans-serif;
+  text-align: justify;
 }
 
 #main__ingenieria {
