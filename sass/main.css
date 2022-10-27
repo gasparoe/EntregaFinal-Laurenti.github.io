@@ -415,6 +415,36 @@ body #footer .redessociales i {
   text-align: justify;
 }
 
+#main__dulce {
+  padding-top: 10px;
+  background-color: white;
+}
+#main__dulce h1 {
+  padding-top: 10px;
+  font-size: 40px;
+  font-family: sans-serif;
+  text-align: center;
+  color: orangered;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+}
+
+#section1__dulce {
+  background-color: white;
+}
+#section1__dulce h5 {
+  color: orangered;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+#section1__dulce p {
+  font-family: sans-serif;
+}
+#section1__dulce .texto {
+  font-family: sans-serif;
+  text-align: justify;
+}
+
 #main__ingenieria {
   background-color: white;
 }
