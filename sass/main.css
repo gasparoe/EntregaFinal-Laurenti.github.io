@@ -445,6 +445,36 @@ body #footer .redessociales i {
   text-align: justify;
 }
 
+#main__chocolate {
+  padding-top: 10px;
+  background-color: white;
+}
+#main__chocolate h1 {
+  padding-top: 10px;
+  font-size: 40px;
+  font-family: sans-serif;
+  text-align: center;
+  color: orangered;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+}
+
+#section1__chocolate {
+  background-color: white;
+}
+#section1__chocolate h5 {
+  color: orangered;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+#section1__chocolate p {
+  font-family: sans-serif;
+}
+#section1__chocolate .texto {
+  font-family: sans-serif;
+  text-align: justify;
+}
+
 #main__ingenieria {
   background-color: white;
 }
