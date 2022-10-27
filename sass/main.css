@@ -385,6 +385,36 @@ body #footer .redessociales i {
   text-align: justify;
 }
 
+#main__helado {
+  padding-top: 10px;
+  background-color: white;
+}
+#main__helado h1 {
+  padding-top: 10px;
+  font-size: 40px;
+  font-family: sans-serif;
+  text-align: center;
+  color: orangered;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+}
+
+#section1__helado {
+  background-color: white;
+}
+#section1__helado h5 {
+  color: orangered;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+#section1__helado p {
+  font-family: sans-serif;
+}
+#section1__helado .texto {
+  font-family: sans-serif;
+  text-align: justify;
+}
+
 #main__ingenieria {
   background-color: white;
 }
